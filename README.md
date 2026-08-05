@@ -79,3 +79,9 @@ python -m streamlit run streamlit_test.py
 ```
 
 
+<img width="1599" height="732" alt="Screenshot 2026-08-04 204444" src="https://github.com/user-attachments/assets/8e53a7e2-5556-4892-8ac1-3e77c24dba83" />
+<img width="1599" height="750" alt="Screenshot 2026-08-04 204129" src="https://github.com/user-attachments/assets/1a74df96-ce17-4be1-b5b4-95fb32e5fdf9" />
+<img width="545" height="606" alt="Screenshot 2026-08-04 204356" src="https://github.com/user-attachments/assets/a703e72c-6bf5-49c2-ba93-34c07cf1e6ce" />
+
+
+
